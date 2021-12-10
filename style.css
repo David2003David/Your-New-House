@@ -668,15 +668,18 @@ section
         width: 35rem;
     }
     .menu .box-container{
-        margin-left: -8px;
+        margin-left: -11px;
     }
     .apartment .box-container{
-        margin-left: -8px;
+        margin-left: -11px;
     }
     .review .box-container{
-        margin-left: -8px;
+        margin-left: -11px;
     }
     .blogs .box-container{
-        margin-left: -8px;
+        margin-left: -11px;
+    }
+    .contact .row .map{
+        margin-left: 50px;
     }
 }
