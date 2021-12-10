@@ -650,7 +650,7 @@ section
 @media (max-width:450px) {
     
     html{
-        font-size: 47%;
+        font-size: 50%;
     }
     .cart-item img{
         width: 130px;
@@ -660,8 +660,23 @@ section
         top: 1rem; right: 0rem;
         font-size: 2rem;
     }
+    
+}
+@media (max-width:380px){
     .apartment .box-container .box .image img{
         height: 20rem;
         width: 35rem;
+    }
+    .menu .box-container{
+        margin-left: -5px;
+    }
+    .apartment .box-container{
+        margin-left: -5px;
+    }
+    .review .box-container{
+        margin-left: -5px;
+    }
+    .blogs .box-container{
+        margin-left: -5px;
     }
 }
